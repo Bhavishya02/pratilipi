@@ -1,4 +1,4 @@
-Pratilipi Recommendation System
+Story Recommendation System
 
 This project implements an ALS-based Collaborative Filtering recommendation system to predict the top 5 pratilipis a user is likely to read based on historical interaction data.
 
